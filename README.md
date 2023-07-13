@@ -1,5 +1,6 @@
 ## Olá sou Jonas Palhanos, desenvolvedor Mobile e Entusiasta em tecnologia.
 - 📱 Atualmente atuo com programação mobile nativo, com foco na liguagem kotlin.
+- 📷 Possuo um canal que falo sobre mobile e suas tecnologias, passe lá para dar uma olhada.
   
 ##
 ### Minhas principais linguagens e tecnologias utilizadas:
