@@ -1,4 +1,4 @@
-### Olá sou Jonas Palhanos
+### Olá sou Jonas Palhanos, desenvolvedor Mobile e Entusiasta em tecnologia.
 - 📱 Hoje trabalho com programação mobile nativo, com foco na liguagem kotlin.
 
 <div align="left">
